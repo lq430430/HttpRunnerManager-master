@@ -779,7 +779,7 @@ def edit_suite(request, id=None):
 @login_check
 @accept_websocket
 def echo(request):
-    if not request.is_websocket():   #1111111111111111
+    if not request.is_websocket():   #2222222222222
         return render_to_response('echo.html')
     else:
         servers = []
