@@ -1,0 +1,20 @@
+-   config:
+        name: "\u83B7\u53D6\u9A8C\u8BC1\u7801"
+        request:
+            base_url: https://${gateway}
+        variables:
+        -   random_phone: 15${random_str(111111111,999999999)}
+-   test:
+        extract:
+        -   code: content.status.code
+        name: "\u83B7\u53D6\u9A8C\u8BC1\u7801"
+        request:
+            method: GET
+            url: /vcm/getIdentifyCodeV2/$random_phone
+-   test:
+        extract:
+        -   code: content.status.code
+        name: "\u83B7\u53D6\u9A8C\u8BC1\u7801"
+        request:
+            method: GET
+            url: /vcm/getIdentifyCodeV2/$random_phone

@@ -1,0 +1,1048 @@
+2018-06-29 11:14:13,438 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-06-29 11:14:32,678 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-06-29 11:14:33,058 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:33,499 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:58,797 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-06-29 11:48:11,403 [HttpRunnerManager:151] [operation:add_case_data] [INFO]- 的用例添加成功: {'test': {'request': {'method': 'POST', 'url': ''}, 'name': '的'}}
+2018-06-29 11:48:48,076 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:34:18,047 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:18,057 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:18,268 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,270 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,276 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,278 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,296 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:18,299 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:18,352 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,364 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,370 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,383 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,578 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2018-07-02 13:34:21,442 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:21,445 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,449 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:21,484 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,487 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,492 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:21,508 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,516 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:21,519 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:21,531 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,540 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,545 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,424 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:22,426 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:22,429 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,465 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,466 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,468 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,480 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,483 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:22,490 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:22,498 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,506 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,509 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:35:30,488 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:48:28,352 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:53:41,984 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:53:49,147 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:54:04,117 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 13:54:07,459 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:57:09,661 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 13:57:11,824 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:04:39,039 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:04:44,830 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:04:54,650 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:06:02,565 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/config_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 413, in config_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:24:14,328 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:24:16,921 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:27:17,963 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:44,949 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:47,983 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:28:16,257 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:28:18,192 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:37:16,138 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:20,563 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:24,899 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:37:26,773 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:37:30,837 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:37:33,775 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:39:25,603 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:39:27,918 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:43:42,829 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:43:44,932 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:47:52,728 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:47:54,981 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:55:50,890 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:55:53,036 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:57:17,859 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/module_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 345, in module_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 433, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: '用例_quant_login_out(登入登出)'
+2018-07-02 14:59:50,449 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:59:52,333 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2023-03-29 14:42:28,101 [django.request:91] [base:get_response] [WARNING]- Not Found: //api/register/
+2023-03-29 14:42:30,548 [django.request:91] [base:get_response] [WARNING]- Not Found: //api/register/
+2023-03-29 14:42:36,539 [django.request:91] [base:get_response] [WARNING]- Not Found: //api/register/
+2023-03-29 14:43:09,639 [django.request:91] [base:get_response] [WARNING]- Not Found: //api/register/
+2023-03-29 14:43:18,052 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/register/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 10, in process
+    app = __import__("%s.views" % app)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 17, in <module>
+    from ApiManager.tasks import main_hrun
+  File "D:\HttpRunnerManager-master\ApiManager\tasks.py", line 16, in <module>
+    from httprunner import HttpRunner, logger
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\__init__.py", line 3, in <module>
+    from httprunner.task import HttpRunner
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 9, in <module>
+    from httprunner.report import (HtmlTestResult, get_platform, get_summary,
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\report.py", line 15, in <module>
+    from jinja2 import Template, escape
+ImportError: cannot import name 'escape' from 'jinja2' (C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\jinja2\__init__.py)
+2023-03-29 14:49:19,977 [HttpRunnerManager:35] [operation:add_register_data] [INFO]- 新增用户：ApiManager.UserInfo.objects
+2023-03-29 14:49:28,548 [HttpRunnerManager:60] [views:login] [INFO]- lilycui@pateo.com.cn 登录失败, 请检查用户名或者密码
+2023-03-29 14:49:59,844 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-03-29 17:53:36,121 [HttpRunnerManager:29] [operation:add_register_data] [DEBUG]- lily 已被其他用户注册
+2023-03-29 17:56:14,416 [HttpRunnerManager:35] [operation:add_register_data] [INFO]- 新增用户：ApiManager.UserInfo.objects
+2023-03-29 17:56:42,606 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-03-29 18:18:16,171 [HttpRunnerManager:62] [operation:add_project_data] [INFO]- 项目添加成功：{'project_name': '北新C40DB-M16', 'responsible_name': 'caofangqiang', 'test_user': 'lilycui', 'dev_user': 'lvchunhe', 'publish_app': '中改云端支持', 'simple_desc': '', 'other_desc': ''}
+2023-03-29 18:45:11,754 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '用户账号', 'test_user': 'lilycui', 'simple_desc': 'BASE模块查询用户、车辆、修改密码等功能', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (1)>}
+2023-03-29 18:51:15,693 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例添加成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/15264831882', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-03-30 16:47:06,918 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-03-31 10:20:45,818 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-03-31 10:28:02,289 [HttpRunnerManager:60] [views:login] [INFO]- lily 登录失败, 请检查用户名或者密码
+2023-03-31 10:28:16,757 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-03-31 10:38:36,897 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': '/user/tsp/checkPhone/15264831882', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-03-31 14:10:50,603 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': '/user/tsp/checkPhone/152{random(111111,999999)}', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-03-31 14:12:44,820 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': '/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在', 'variables': [{'phone': '153{random(111111,999999)}'}]}}
+2023-03-31 14:16:33,630 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- 变量配置配置添加成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '153${random(111111,999999)}'}]}}
+2023-03-31 14:16:57,690 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': '/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-03-31 14:18:47,640 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-03-31 14:20:21,212 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '153${random(111111,999999)}'}]}}
+2023-03-31 14:20:55,348 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在', 'variables': [{'phone': '153${random(111111,999999)}'}]}}
+2023-03-31 17:34:22,897 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在', 'variables': [{'phone': '153${random_str(111111,999999)}'}]}}
+2023-03-31 17:35:33,335 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置'}}
+2023-03-31 17:36:24,878 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15${random_str(111111111,999999999)}'}]}}
+2023-03-31 17:39:04,955 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15${random_str(111111111,999999999)}'}]}}
+2023-03-31 17:39:46,178 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-03-31 17:40:37,287 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15${random_str(111111111,999999999)}'}]}}
+2023-03-31 17:41:27,916 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-03-31 17:44:18,357 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15264831882'}]}}
+2023-04-03 09:32:54,662 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-03 09:54:25,818 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15264831882'}, {'random_phone': '15${random_str(111111111,999999999)}'}]}}
+2023-04-03 09:55:39,817 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '初始化', 'test_user': 'lilycui', 'simple_desc': '初始化账号、设备入库', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (1)>}
+2023-04-03 10:16:08,651 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 获取验证码用例添加成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/', 'method': 'GET', 'params': {'phone': '$random_phone'}}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:16:50,317 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15264831882'}, {'random_phone': '15${random_str(111111111,999999999)}'}]}}
+2023-04-03 10:17:35,589 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/', 'method': 'GET', 'params': {'phone': '$random_phone'}}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:26:40,882 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15264831882'}]}}
+2023-04-03 10:28:19,521 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15264831882'}]}}
+2023-04-03 10:28:46,695 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15264831882'}]}}
+2023-04-03 10:29:46,800 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- 初始化变量配置添加成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '15${random_str(111111111,999999999)}'}]}}
+2023-04-03 10:30:32,206 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/', 'method': 'GET', 'params': {'phone': '$random_phone'}}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:31:11,713 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/', 'method': 'GET', 'params': {'phone': '$random_phone'}}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:31:38,465 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/', 'method': 'GET', 'params': {'phone': '$random_phone'}}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:32:50,694 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:34:06,224 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:34:29,772 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'description', 'expected': '短信发送失败'}], 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:34:53,827 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 10:55:32,131 [HttpRunnerManager:62] [operation:add_project_data] [INFO]- 项目添加成功：{'project_name': '北汽C62', 'responsible_name': 'caofangqiang', 'test_user': 'lilycui', 'dev_user': 'lvchunhe', 'publish_app': '云端支持', 'simple_desc': '', 'other_desc': ''}
+2023-04-03 10:56:53,560 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '初始化', 'test_user': 'lilycui', 'simple_desc': '', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (2)>}
+2023-04-03 10:57:46,545 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 获取验证码用例添加成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/15274666618', 'method': 'POST'}, 'name': '获取验证码'}}
+2023-04-03 10:58:09,693 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': 'https://bqc62gw-uats.pateo.com.cn/vcm/getIdentifyCodeV2/15274666618', 'method': 'POST'}, 'name': '获取验证码'}}
+2023-04-03 14:11:08,606 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 14:27:03,252 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 236, in run_test
+    runner.run(testcase_dir_path)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 238, in run
+    test_suite_list = init_test_suites(path_or_testsets, mapping)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 199, in init_test_suites
+    test_suite = TestSuite(testset, mapping, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 89, in __init__
+    test_runner = runner.Runner(self.config, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 17, in __init__
+    self.init_config(config_dict, "testset")
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 68, in init_config
+    self.context.config_context(config_dict, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 50, in config_context
+    self.bind_variables(variables, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 99, in bind_variables
+    variable_eval_value = self.eval_content(value)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 137, in eval_content
+    return self.testcase_parser.eval_content_with_bindings(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 919, in eval_content_with_bindings
+    content = self._eval_content_functions(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 816, in _eval_content_functions
+    func = self.get_bind_function(func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 785, in get_bind_function
+    return self._get_bind_item("function", func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 779, in _get_bind_item
+    return utils.search_conf_item(self.file_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 347, in search_conf_item
+    return search_conf_item(dir_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 332, in search_conf_item
+    imported_module = get_imported_module_from_file(target_file)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 302, in get_imported_module_from_file
+    imported_module = importlib.machinery.SourceFileLoader(
+  File "<frozen importlib._bootstrap_external>", line 462, in _check_name_wrapper
+  File "<frozen importlib._bootstrap_external>", line 962, in load_module
+  File "<frozen importlib._bootstrap_external>", line 787, in load_module
+  File "<frozen importlib._bootstrap>", line 262, in _load_module_shim
+  File "<frozen importlib._bootstrap>", line 604, in _exec
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 916, in get_code
+  File "<frozen importlib._bootstrap_external>", line 846, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "D:\HttpRunnerManager-master\suite\2023-04-03 14-27-03-228\北新C40DB-M16\debugtalk.py", line 19
+    switch(project):
+                   ^
+SyntaxError: invalid syntax
+2023-04-03 14:38:46,456 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-03 14:42:28,461 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'extract': [{'code': 'content.status.code'}]}}
+2023-04-03 14:44:56,012 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}]}}
+2023-04-03 14:50:37,006 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'content.status.code', 'expected': '0'}], 'extract': [{'code': 'content.verificactionCode.code'}, {'phone_num': 'content.verificactionCode.phone'}]}}
+2023-04-03 14:53:19,848 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'content.status.code', 'expected': '0'}], 'extract': [{'code': 'content.verificactionCode.code'}, {'phone_num': 'content.verificactionCode.phone'}]}}
+2023-04-03 14:56:24,528 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 用户注册用例添加成功: {'test': {'request': {'url': '/base/user/userRegisterByPhone', 'method': 'POST', 'json': {'phone': '${phone}', 'verificationCode': '${code}'}}, 'name': '用户注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusMessage', 'expected': '请求成功'}]}}
+2023-04-03 14:57:31,303 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 用户注册用例更新成功: {'test': {'request': {'url': '/base/user/userRegisterByPhone', 'method': 'POST', 'json': {'phone': '${phone}', 'verificationCode': '${code}'}}, 'name': '用户注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusMessage', 'expected': '请求成功'}]}}
+2023-04-03 14:58:34,866 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 用户注册用例更新成功: {'test': {'request': {'url': '/base/user/userRegisterByPhone', 'method': 'POST', 'json': {'phone': '$phone_num', 'verificationCode': '$code'}}, 'name': '用户注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusMessage', 'expected': '请求成功'}]}}
+2023-04-03 15:00:07,458 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 用户注册用例更新成功: {'test': {'request': {'url': '/base/user/userRegisterByPhone', 'method': 'POST', 'json': {'phone': '$phone_num', 'verificationCode': '$code'}}, 'name': '用户注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusCode', 'expected': '0'}]}}
+2023-04-03 15:05:21,342 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': '${project}IMSI${random_str(12345678,99999999,)}'}, {'msisdn': '861455$random_str(12345678,99999999,)}'}, {'pdsn': '${project}PDSN${random_str(12345678,99999999,)}'}, {'tboxPdsn': 'P${project}TBOX${random_str(12345678,99999999,)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999,)}'}, {'carplate': '湘A${__Random(10000,99999)}'}]}}
+2023-04-03 15:12:01,199 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- project配置添加成功: {'config': {'request': {}, 'name': 'project', 'variables': [{'project': 'bxc40dbm16gw'}]}}
+2023-04-03 15:13:02,559 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': '$projectIMSI${random_str(12345678,99999999,)}'}, {'msisdn': '861455$random_str(12345678,99999999,)}'}, {'pdsn': '$projectPDSN${random_str(12345678,99999999,)}'}, {'tboxPdsn': 'P$projectTBOX${random_str(12345678,99999999,)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999,)}'}, {'carplate': '湘A${random_str(10000,99999)}'}]}}
+2023-04-03 15:14:48,045 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 设备替换及注册用例添加成功: {'test': {'request': {'url': '/vehicleactivation/baicc62/replace', 'method': 'POST', 'json': {'iccid': '$iccid', 'imsi': '$imsi', 'msisdn': '$msisdn', 'pdsn': '$pdsn', 'tboxPdsn': '$tboxPdsn', 'vin': '$vin'}}, 'name': '设备替换及注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusCode', 'expected': '0'}]}}
+2023-04-03 15:14:53,358 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 236, in run_test
+    runner.run(testcase_dir_path)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 238, in run
+    test_suite_list = init_test_suites(path_or_testsets, mapping)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 199, in init_test_suites
+    test_suite = TestSuite(testset, mapping, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 89, in __init__
+    test_runner = runner.Runner(self.config, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 17, in __init__
+    self.init_config(config_dict, "testset")
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 68, in init_config
+    self.context.config_context(config_dict, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 50, in config_context
+    self.bind_variables(variables, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 99, in bind_variables
+    variable_eval_value = self.eval_content(value)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 137, in eval_content
+    return self.testcase_parser.eval_content_with_bindings(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 919, in eval_content_with_bindings
+    content = self._eval_content_functions(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 817, in _eval_content_functions
+    eval_value = func(*args, **kwargs)
+TypeError: random_str() takes 2 positional arguments but 3 were given
+2023-04-03 15:16:35,492 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': '$projectIMSI${random_str(12345678,99999999)}'}, {'msisdn': '861455$random_str(12345678,99999999)}'}, {'pdsn': '$projectPDSN${random_str(12345678,99999999)}'}, {'tboxPdsn': 'P$projectTBOX${random_str(12345678,99999999)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999)}'}, {'carplate': '湘A${random_str(10000,99999)}'}]}}
+2023-04-03 15:18:42,990 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': 'bxc40dbm16IMSI${random_str(12345678,99999999)}'}, {'msisdn': '861455$random_str(12345678,99999999)}'}, {'pdsn': 'bxc40dbm16PDSN${random_str(12345678,99999999)}'}, {'tboxPdsn': 'Pbxc40dbm16TBOX${random_str(12345678,99999999)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999)}'}, {'carplate': '湘A${random_str(10000,99999)}'}]}}
+2023-04-03 15:19:02,067 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 设备替换及注册用例更新成功: {'test': {'request': {'url': '/vehicleactivation/baicc62/replace', 'method': 'POST', 'json': {'iccid': '$iccid', 'imsi': '$imsi', 'msisdn': '$msisdn', 'pdsn': '$pdsn', 'tboxPdsn': '$tboxPdsn', 'vin': '$vin'}}, 'name': '设备替换及注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusCode', 'expected': '0'}]}}
+2023-04-03 15:21:54,447 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}]}}
+2023-04-03 15:22:15,176 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'content.status.code', 'expected': '0'}], 'extract': [{'code': 'content.verificactionCode.code'}, {'phone_num': 'content.verificactionCode.phone'}]}}
+2023-04-03 15:22:42,455 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'content.status.code', 'expected': '0'}], 'extract': [{'code': 'content.verificactionCode.code'}, {'phone_num': 'content.verificactionCode.phone'}]}}
+2023-04-03 15:23:38,034 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}]}}
+2023-04-03 15:23:52,958 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 设备替换及注册用例更新成功: {'test': {'request': {'url': '/vehicleactivation/baicc62/replace', 'method': 'POST', 'json': {'iccid': '$iccid', 'imsi': '$imsi', 'msisdn': '$msisdn', 'pdsn': '$pdsn', 'tboxPdsn': '$tboxPdsn', 'vin': '$vin'}}, 'name': '设备替换及注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusCode', 'expected': '0'}]}}
+2023-04-03 15:26:20,035 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': 'bxc40dbm16IMSI${random_str(12345678,99999999)}'}, {'msisdn': '861455${random_str(12345678,99999999)}'}]}}
+2023-04-03 15:27:47,003 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': 'bxc40dbm16IMSI${random_str(12345678,99999999)}'}, {'msisdn': '861455${random_str(12345678,99999999)}'}, {'pdsn': 'bxc40dbm16PDSN${random_str(12345678,99999999)}'}, {'tboxPdsn': 'Pbxc40dbm16TBOX${random_str(12345678,99999999)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999)}'}]}}
+2023-04-03 15:30:35,482 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- C40-M16项目名称配置添加成功: {'config': {'request': {}, 'name': 'C40-M16项目名称', 'variables': [{}]}}
+2023-04-03 15:31:00,218 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': 'bxc40dbm16IMSI${random_str(12345678,99999999)}'}, {'msisdn': '861455${random_str(12345678,99999999)}'}, {'pdsn': '$projectPDSN${random_str(12345678,99999999)}'}, {'tboxPdsn': 'Pbxc40dbm16TBOX${random_str(12345678,99999999)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999)}'}]}}
+2023-04-03 15:32:19,937 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 设备替换及注册用例更新成功: {'test': {'request': {'url': '/vehicleactivation/baicc62/replace', 'method': 'POST', 'json': {'iccid': '$iccid', 'imsi': '$imsi', 'msisdn': '$msisdn', 'pdsn': '$pdsn', 'tboxPdsn': '$tboxPdsn', 'vin': '$vin'}}, 'name': '设备替换及注册', 'validate': [{'comparator': 'equals', 'check': 'content.statusCode', 'expected': '0'}]}}
+2023-04-03 15:32:41,464 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': 'bxc40dbm16IMSI${random_str(12345678,99999999)}'}, {'msisdn': '861455${random_str(12345678,99999999)}'}, {'pdsn': '$projectPDSN${random_str(12345678,99999999)}'}, {'tboxPdsn': 'Pbxc40dbm16TBOX${random_str(12345678,99999999)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999)}'}]}}
+2023-04-03 15:33:32,595 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 初始化变量配置更新成功: {'config': {'request': {}, 'name': '初始化变量', 'variables': [{'random_phone': '152${random_str(11111111,99999999)}'}, {'iccid': '8986${random_str(1234567890000000,9999999999999999)}'}, {'imsi': 'bxc40dbm16IMSI${random_str(12345678,99999999)}'}, {'msisdn': '861455${random_str(12345678,99999999)}'}, {'pdsn': 'bxc40dbm16PDSN${random_str(12345678,99999999)}'}, {'tboxPdsn': 'Pbxc40dbm16TBOX${random_str(12345678,99999999)}'}, {'vin': 'LNBTESTVIN${random_str(1234567,9999999)}'}]}}
+2023-04-03 16:11:21,224 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\utils\__init__.py", line 423, in __call__
+    return self.__value__
+AttributeError: 'ChannelPromise' object has no attribute '__value__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 449, in _ensured
+    return fun(*args, **kwargs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\messaging.py", line 177, in _publish
+    channel = self.channel
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\messaging.py", line 194, in _get_channel
+    channel = self._channel = channel()
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\utils\__init__.py", line 425, in __call__
+    value = self.__value__ = self.__contract__()
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\messaging.py", line 209, in <lambda>
+    channel = ChannelPromise(lambda: connection.default_channel)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 771, in default_channel
+    self.connection
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 756, in connection
+    self._connection = self._establish_connection()
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 711, in _establish_connection
+    conn = self.transport.establish_connection()
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\transport\pyamqp.py", line 116, in establish_connection
+    conn = self.Connection(**opts)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\connection.py", line 165, in __init__
+    self.transport = self.Transport(host, connect_timeout, ssl)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\connection.py", line 186, in Transport
+    return create_transport(host, connect_timeout, ssl)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\transport.py", line 299, in create_transport
+    return TCPTransport(host, connect_timeout)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\transport.py", line 95, in __init__
+    raise socket.error(last_err)
+OSError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 228, in run_test
+    main_hrun.delay(testcase_dir_path, report_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\celery\app\task.py", line 461, in delay
+    return self.apply_async(args, kwargs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\celery\app\task.py", line 570, in apply_async
+    return app.send_task(
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\celery\app\base.py", line 350, in send_task
+    task_id = P.publish_task(
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\celery\app\amqp.py", line 300, in publish_task
+    self.publish(
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\messaging.py", line 170, in publish
+    return publish(body, priority, content_type,
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 466, in _ensured
+    self.ensure_connection(errback,
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 380, in ensure_connection
+    retry_over_time(self.connect, self.recoverable_connection_errors,
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\utils\__init__.py", line 246, in retry_over_time
+    return fun(*args, **kwargs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 250, in connect
+    return self.connection
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 756, in connection
+    self._connection = self._establish_connection()
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\connection.py", line 711, in _establish_connection
+    conn = self.transport.establish_connection()
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\kombu\transport\pyamqp.py", line 116, in establish_connection
+    conn = self.Connection(**opts)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\connection.py", line 165, in __init__
+    self.transport = self.Transport(host, connect_timeout, ssl)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\connection.py", line 186, in Transport
+    return create_transport(host, connect_timeout, ssl)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\transport.py", line 299, in create_transport
+    return TCPTransport(host, connect_timeout)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\amqp\transport.py", line 95, in __init__
+    raise socket.error(last_err)
+OSError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-04-03 17:40:24,506 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 登录用例添加成功: {'test': {'request': {'url': '/auth/userLogin', 'method': 'POST', 'data': {'loginId': '$phone', 'password': '', 'loginType': '', 'deviceId': '', 'deviceType': '', 'ts': '', 'sign': ''}}, 'name': '登录'}}
+2023-04-03 17:53:12,633 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- 变量配置配置更新成功: {'config': {'request': {}, 'name': '变量配置', 'variables': [{'phone': '15264831882'}, {'iccid': '89861464769633335381'}, {'imsi': 'bxc40dbm16IMSI36714104'}, {'msisdn': '86145524166023'}, {'pdsn': 'bxc40dbm16PDSN18252128'}, {'tboxPdsn': 'Pbxc40dbm16TBOX41869162'}, {'vin': 'LNBTESTVIN4174687'}]}}
+2023-04-04 09:43:32,667 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-04 09:45:17,118 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'content.status.code', 'expected': '0'}], 'extract': [{'code': 'content.verificactionCode.code'}, {'phone_num': 'content.verificactionCode.phone'}], 'setup_hooks': ['${setup_hooks}'], 'teardown_hooks': []}}
+2023-04-04 09:45:23,131 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 236, in run_test
+    runner.run(testcase_dir_path)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 238, in run
+    test_suite_list = init_test_suites(path_or_testsets, mapping)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 199, in init_test_suites
+    test_suite = TestSuite(testset, mapping, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 89, in __init__
+    test_runner = runner.Runner(self.config, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 17, in __init__
+    self.init_config(config_dict, "testset")
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 68, in init_config
+    self.context.config_context(config_dict, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 50, in config_context
+    self.bind_variables(variables, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 99, in bind_variables
+    variable_eval_value = self.eval_content(value)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 137, in eval_content
+    return self.testcase_parser.eval_content_with_bindings(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 919, in eval_content_with_bindings
+    content = self._eval_content_functions(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 816, in _eval_content_functions
+    func = self.get_bind_function(func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 785, in get_bind_function
+    return self._get_bind_item("function", func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 779, in _get_bind_item
+    return utils.search_conf_item(self.file_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 347, in search_conf_item
+    return search_conf_item(dir_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 332, in search_conf_item
+    imported_module = get_imported_module_from_file(target_file)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 302, in get_imported_module_from_file
+    imported_module = importlib.machinery.SourceFileLoader(
+  File "<frozen importlib._bootstrap_external>", line 462, in _check_name_wrapper
+  File "<frozen importlib._bootstrap_external>", line 962, in load_module
+  File "<frozen importlib._bootstrap_external>", line 787, in load_module
+  File "<frozen importlib._bootstrap>", line 262, in _load_module_shim
+  File "<frozen importlib._bootstrap>", line 604, in _exec
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 916, in get_code
+  File "<frozen importlib._bootstrap_external>", line 846, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "D:\HttpRunnerManager-master\suite\2023-04-04 09-45-23-101\北新C40DB-M16\debugtalk.py", line 41
+    def Signature(loginId,password,loginType=None,deviceId=None,deviceType=None，ts==None,projectKey=None):
+                                                                                 ^
+SyntaxError: invalid character in identifier
+2023-04-04 09:46:26,903 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 236, in run_test
+    runner.run(testcase_dir_path)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 238, in run
+    test_suite_list = init_test_suites(path_or_testsets, mapping)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 199, in init_test_suites
+    test_suite = TestSuite(testset, mapping, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 89, in __init__
+    test_runner = runner.Runner(self.config, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 17, in __init__
+    self.init_config(config_dict, "testset")
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 68, in init_config
+    self.context.config_context(config_dict, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 50, in config_context
+    self.bind_variables(variables, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 99, in bind_variables
+    variable_eval_value = self.eval_content(value)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 137, in eval_content
+    return self.testcase_parser.eval_content_with_bindings(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 919, in eval_content_with_bindings
+    content = self._eval_content_functions(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 816, in _eval_content_functions
+    func = self.get_bind_function(func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 785, in get_bind_function
+    return self._get_bind_item("function", func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 779, in _get_bind_item
+    return utils.search_conf_item(self.file_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 347, in search_conf_item
+    return search_conf_item(dir_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 332, in search_conf_item
+    imported_module = get_imported_module_from_file(target_file)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 302, in get_imported_module_from_file
+    imported_module = importlib.machinery.SourceFileLoader(
+  File "<frozen importlib._bootstrap_external>", line 462, in _check_name_wrapper
+  File "<frozen importlib._bootstrap_external>", line 962, in load_module
+  File "<frozen importlib._bootstrap_external>", line 787, in load_module
+  File "<frozen importlib._bootstrap>", line 262, in _load_module_shim
+  File "<frozen importlib._bootstrap>", line 604, in _exec
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 916, in get_code
+  File "<frozen importlib._bootstrap_external>", line 846, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "D:\HttpRunnerManager-master\suite\2023-04-04 09-46-26-883\北新C40DB-M16\debugtalk.py", line 41
+    def Signature(loginId,password,loginType=None,deviceId=None,deviceType=None，ts==None,projectKey=None):
+                                                                                 ^
+SyntaxError: invalid character in identifier
+2023-04-04 09:47:41,780 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'content.status.code', 'expected': '0'}], 'extract': [{'code': 'content.verificactionCode.code'}, {'phone_num': 'content.verificactionCode.phone'}], 'setup_hooks': [], 'teardown_hooks': []}}
+2023-04-04 09:47:45,022 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 236, in run_test
+    runner.run(testcase_dir_path)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 238, in run
+    test_suite_list = init_test_suites(path_or_testsets, mapping)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 199, in init_test_suites
+    test_suite = TestSuite(testset, mapping, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 89, in __init__
+    test_runner = runner.Runner(self.config, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 17, in __init__
+    self.init_config(config_dict, "testset")
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 68, in init_config
+    self.context.config_context(config_dict, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 50, in config_context
+    self.bind_variables(variables, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 99, in bind_variables
+    variable_eval_value = self.eval_content(value)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 137, in eval_content
+    return self.testcase_parser.eval_content_with_bindings(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 919, in eval_content_with_bindings
+    content = self._eval_content_functions(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 816, in _eval_content_functions
+    func = self.get_bind_function(func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 785, in get_bind_function
+    return self._get_bind_item("function", func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 779, in _get_bind_item
+    return utils.search_conf_item(self.file_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 347, in search_conf_item
+    return search_conf_item(dir_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 332, in search_conf_item
+    imported_module = get_imported_module_from_file(target_file)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 302, in get_imported_module_from_file
+    imported_module = importlib.machinery.SourceFileLoader(
+  File "<frozen importlib._bootstrap_external>", line 462, in _check_name_wrapper
+  File "<frozen importlib._bootstrap_external>", line 962, in load_module
+  File "<frozen importlib._bootstrap_external>", line 787, in load_module
+  File "<frozen importlib._bootstrap>", line 262, in _load_module_shim
+  File "<frozen importlib._bootstrap>", line 604, in _exec
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 916, in get_code
+  File "<frozen importlib._bootstrap_external>", line 846, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "D:\HttpRunnerManager-master\suite\2023-04-04 09-47-45-006\北新C40DB-M16\debugtalk.py", line 41
+    def Signature(loginId,password,loginType=None,deviceId=None,deviceType=None，ts==None,projectKey=None):
+                                                                                 ^
+SyntaxError: invalid character in identifier
+2023-04-04 09:48:11,883 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 236, in run_test
+    runner.run(testcase_dir_path)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 238, in run
+    test_suite_list = init_test_suites(path_or_testsets, mapping)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 199, in init_test_suites
+    test_suite = TestSuite(testset, mapping, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\task.py", line 89, in __init__
+    test_runner = runner.Runner(self.config, http_client_session)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 17, in __init__
+    self.init_config(config_dict, "testset")
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\runner.py", line 68, in init_config
+    self.context.config_context(config_dict, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 50, in config_context
+    self.bind_variables(variables, level)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 99, in bind_variables
+    variable_eval_value = self.eval_content(value)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\context.py", line 137, in eval_content
+    return self.testcase_parser.eval_content_with_bindings(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 919, in eval_content_with_bindings
+    content = self._eval_content_functions(content)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 816, in _eval_content_functions
+    func = self.get_bind_function(func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 785, in get_bind_function
+    return self._get_bind_item("function", func_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\testcase.py", line 779, in _get_bind_item
+    return utils.search_conf_item(self.file_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 347, in search_conf_item
+    return search_conf_item(dir_path, item_type, item_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 332, in search_conf_item
+    imported_module = get_imported_module_from_file(target_file)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\httprunner\utils.py", line 302, in get_imported_module_from_file
+    imported_module = importlib.machinery.SourceFileLoader(
+  File "<frozen importlib._bootstrap_external>", line 462, in _check_name_wrapper
+  File "<frozen importlib._bootstrap_external>", line 962, in load_module
+  File "<frozen importlib._bootstrap_external>", line 787, in load_module
+  File "<frozen importlib._bootstrap>", line 262, in _load_module_shim
+  File "<frozen importlib._bootstrap>", line 604, in _exec
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 916, in get_code
+  File "<frozen importlib._bootstrap_external>", line 846, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "D:\HttpRunnerManager-master\suite\2023-04-04 09-48-11-868\北新C40DB-M16\debugtalk.py", line 41
+    def Signature(loginId,password,loginType=None,deviceId=None,deviceType=None，ts==None,projectKey=None):
+                                                                                 ^
+SyntaxError: invalid character in identifier
+2023-04-04 09:49:34,221 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': '/vcm/getIdentifyCodeV2/$random_phone', 'method': 'GET'}, 'name': '获取验证码', 'validate': [{'comparator': 'equals', 'check': 'content.status.code', 'expected': '0'}], 'extract': [{'code': 'content.verificactionCode.code'}, {'phone_num': 'content.verificactionCode.phone'}], 'setup_hooks': ['${setup_hooks}'], 'teardown_hooks': []}}
+2023-04-10 17:37:01,094 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-10 19:22:58,298 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-12 13:42:15,018 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-12 13:44:44,625 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-23 15:56:51,303 [django.request:91] [base:get_response] [WARNING]- Not Found: /
+2023-04-23 15:57:09,605 [django.request:91] [base:get_response] [WARNING]- Not Found: /login
+2023-04-23 15:57:22,730 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /Api/login/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 10, in process
+    app = __import__("%s.views" % app)
+ModuleNotFoundError: No module named 'Api'
+2023-04-23 17:16:05,580 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-23 17:18:10,708 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_config/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 195, in add_config
+    msg = config_info_logic(**testconfig_info)
+  File "D:\HttpRunnerManager-master\ApiManager\utils\common.py", line 393, in config_info_logic
+    return add_config_data(type, **kwargs)
+  File "D:\HttpRunnerManager-master\ApiManager\utils\operation.py", line 186, in add_config_data
+    belong_module = ModuleInfo.objects.get_module_name(module, type=False)
+  File "D:\HttpRunnerManager-master\ApiManager\managers.py", line 87, in get_module_name
+    return self.get(id=module_name)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\sql\query.py", line 1274, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: '请选择'
+2023-04-24 14:07:28,334 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-24 16:23:11,897 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-24 16:28:08,693 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- qqqqq配置添加成功: {'config': {'request': {}, 'name': 'qqqqq'}}
+2023-04-24 16:49:40,201 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '音乐', 'test_user': 'lilycui', 'simple_desc': '', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (2)>}
+2023-04-24 16:49:50,428 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '电台', 'test_user': 'lilycui', 'simple_desc': '', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (2)>}
+2023-04-24 16:50:02,225 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '导航', 'test_user': 'lilycui', 'simple_desc': '', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (2)>}
+2023-04-24 17:07:57,678 [HttpRunnerManager:89] [views:log_out] [INFO]- lily退出
+2023-04-24 17:07:59,237 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-24 19:44:54,645 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- qqq配置添加成功: {'config': {'request': {}, 'name': 'qqq'}}
+2023-04-24 19:46:50,896 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- ee配置添加成功: {'config': {'request': {}, 'name': 'ee'}}
+2023-04-24 19:57:34,906 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- 1配置添加成功: {'config': {'request': {}, 'name': '1', 'variables': [{'phone1': '18666666666'}]}}
+2023-04-24 20:34:17,917 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- ee配置添加成功: {'config': {'request': {}, 'name': 'ee', 'variables': [{'phone2': '1'}]}}
+2023-04-25 13:31:10,215 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-25 14:53:15,091 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-04-25 19:39:26,704 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 用例是否存在用例更新成功: {'test': {'request': {'url': '/auth/userLogin', 'method': 'POST', 'data': {'loginId': '$phone', 'password': '', 'loginType': '', 'deviceId': '', 'deviceType': '', 'ts': '', 'sign': ''}}, 'name': '用例是否存在'}}
+2023-04-25 20:18:13,997 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 获取验证码用例更新成功: {'test': {'request': {'url': 'https://bqc62gw-uats.pateo.com.cn/vcm/getIdentifyCodeV2/15274666618', 'method': 'POST'}, 'name': '获取验证码'}}
+2023-04-25 20:21:43,378 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 检查登录账号是否已存在用例更新成功: {'test': {'request': {'url': 'https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn/user/tsp/checkPhone/$phone', 'method': 'GET', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1aWQiOjExMDAwMDAxODQsImFpZCI6IjJmZDczZWE5ZjA2MzQ1OGM4NjQ0NmU5ZjNmMmEyZmFjIiwibGlkIjoiMTUyNjQ4MzE4ODIiLCJsdHkiOjIsImRpZCI6ImJ4YzQwZGJtMTZQRFNOMTgyNTIxMjgiLCJkdHkiOjQsInBpZCI6ImJ4YzQwZGJtMTYiLCJvcGlkIjoicWluZzIsdXBsb2FkIiwianRpIjoiNDM2ZTkyOWQtNWMyYS00YjhlLWEwMTMtZWI1ZDljZDM2ZWViIiwicnRpIjoiMzY5OWJjNjUtZTZmMS00ZmQzLTliN2YtNWJlODg1ZjJmYzZlIiwiZXhwIjoxNjgwMTAxMjYwfQ.J7qyOwBln3zqogp_RB5Kp7s-e31iWiWL60g5313gQePBwuOcB2QxU6_ZC1alKmPBtYazcCA9-4QFPbGb-fI1ag', 'Content-Type': 'application/json'}}, 'name': '检查登录账号是否已存在'}}
+2023-04-25 20:37:21,491 [django.request:115] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/2/
+Traceback (most recent call last):
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\lq430\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager-master\HttpRunnerManager\activator.py", line 10, in process
+    app = __import__("%s.views" % app)
+  File "D:\HttpRunnerManager-master\ApiManager\views.py", line 23, in <module>
+    from ApiManager.utils.pagination import get_pager_info
+  File "D:\HttpRunnerManager-master\ApiManager\utils\pagination.py", line 58
+    one = "<li><span>"共&nbsp;""3""&nbsp;条"</span></li>"
+                      ^
+SyntaxError: invalid syntax

@@ -1,0 +1,29 @@
+-   config:
+        name: "\u8BBE\u5907\u66FF\u6362\u53CA\u6CE8\u518C"
+        request:
+            base_url: https://bxc40dbm16gw-sit.bqtsp.bjev.com.cn
+        variables:
+        -   random_phone: 152${random_str(11111111,99999999)}
+        -   iccid: 8986${random_str(1234567890000000,9999999999999999)}
+        -   imsi: $projectIMSI${random_str(12345678,99999999)}
+        -   msisdn: 861455$random_str(12345678,99999999)}
+        -   pdsn: $projectPDSN${random_str(12345678,99999999)}
+        -   tboxPdsn: P$projectTBOX${random_str(12345678,99999999)}
+        -   vin: LNBTESTVIN${random_str(1234567,9999999)}
+        -   carplate: "\u6E58A${random_str(10000,99999)}"
+-   test:
+        name: "\u8BBE\u5907\u66FF\u6362\u53CA\u6CE8\u518C"
+        request:
+            json:
+                iccid: $iccid
+                imsi: $imsi
+                msisdn: $msisdn
+                pdsn: $pdsn
+                tboxPdsn: $tboxPdsn
+                vin: $vin
+            method: POST
+            url: /vehicleactivation/baicc62/replace
+        validate:
+        -   check: content.statusCode
+            comparator: equals
+            expected: '0'
