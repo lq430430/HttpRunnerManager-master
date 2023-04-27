@@ -1046,3 +1046,5 @@ Traceback (most recent call last):
     one = "<li><span>"共&nbsp;""3""&nbsp;条"</span></li>"
                       ^
 SyntaxError: invalid syntax
+2023-04-26 17:29:52,473 [HttpRunnerManager:55] [views:login] [INFO]- lily 登录成功
+2023-04-26 17:30:13,892 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- 222配置添加成功: {'config': {'request': {}, 'name': '222'}}

@@ -157,7 +157,7 @@ def get_pager_info(Model, filter_query, url, id, per_items=12):
 
     if url != '/api/periodictask/':
         # obj = obj.order_by('-update_time')
-        obj = obj.order_by('-create_time')
+        obj = obj.order_by('-create_time', "name")
         # obj = obj.order_by('-name')
 
     else:
